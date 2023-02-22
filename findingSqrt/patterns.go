@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Enter length of triangle Name: ")
+	fmt.Println("Enter length of triangle: ")
 	var first int
 	fmt.Scanln(&first)
 
