@@ -16,7 +16,7 @@ func main() {
          fmt.Print(" ")
       }
 
-      for k := 0; k < i+1; k++ {
+      for k := 0; k < i; k++ {
          fmt.Print("*")
       }
       
