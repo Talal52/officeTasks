@@ -6,6 +6,9 @@ write a code to print the star patterns.
 
 [visio code](https://code.visualstudio.com/)
 
+### command:
+to run this code you need this command: go run "name of file".go
+
 ## Output of program pattern0
 ```
      *
